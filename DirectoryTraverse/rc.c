@@ -6,7 +6,6 @@
 #include <string.h>
 #include <limits.h>
 
-
 #define SIZE_THRESHOLD 1024 // 1 kB
 
 void traverse_directory(const char *dir_name, int *num_big_files, time_t *oldest_file_time) {
