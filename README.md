@@ -1,6 +1,5 @@
 # system-programing-exercices
-Programs made through collage System Programing course labortory exercices 
-
+Programs created during the System Programming course laboratory exercise
 ## CopyPaste
 
 - cp
